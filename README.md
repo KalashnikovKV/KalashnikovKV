@@ -5,3 +5,4 @@
 <hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KalashnikovKV&&show_icons=true&title_color=#008000f&icon_color=green&text_color=daf7dc&bg_color=151515">
+<img src="http://kalashnikovcv.herokuapp.com/">
