@@ -1,12 +1,8 @@
-# **Kirill Kalashnikov**
-### **junior** javascript developer
-
 ## **Contact information**:
 ### Phone: +37062387681
 ### E-mail: kirillrik1994@gmail.com
 ### [Telegram](https://t.me/s1ran0)
 ### [LinkedIn](https://www.linkedin.com/in/kirill-kalashnikov/)
-### [GitHub](https://github.com/KalashnikovKV)
 
 ## **Skills and Proficiency**
 * **HTML/CSS**;
